@@ -1,4 +1,4 @@
-import bcrypt from 'bcrypt';
+import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
 import User from '../models/user_model'; // Ensure the correct import path and model name
 const JWT_SECRET = process.env.JWT_SECRET || 'your_jwt_secret'; // Use environment variables for sensitive data

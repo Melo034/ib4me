@@ -14,7 +14,16 @@
 
 ## Website Screenshots
 ![Screenshot 2024-09-16 172212](https://github.com/user-attachments/assets/b7a20d14-47dc-4ae1-846c-33e775fca0c9)
+
 ![Screenshot 2024-09-16 172338](https://github.com/user-attachments/assets/07c048fc-1923-4fce-949e-1897b1417d88)
+
+![Screenshot 2024-09-16 211240](https://github.com/user-attachments/assets/61544302-a6d3-4ac6-9e54-8724722217bc)
+
+![Screenshot 2024-09-16 211206](https://github.com/user-attachments/assets/b4f15f12-c5bc-4b86-9487-9ccf1fe59e56)
+
+![Screenshot 2024-09-16 211553](https://github.com/user-attachments/assets/78e7fbb6-9e66-4aa4-9198-3df6057fee3d)
+
+![Screenshot 2024-09-16 211412](https://github.com/user-attachments/assets/2e992653-6157-449f-a9df-db156c335c38)
 
 ## Features
 - **Local Payment Integration:** Supports donations via popular local payment methods such as Orange Money, Afrimoney, and Qmoney, making it easier for users in specific regions to contribute.

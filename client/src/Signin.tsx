@@ -95,7 +95,7 @@ const Signin = () => {
                   type="text"
                   placeholder="Enter username"
                   {...register("username")}
-                  className="w-full mt-2 px-3 py-2 text-gray-700 bg-transparent rounded-lg border shadow-sm"
+                  className="w-full mt-2 px-3 py-2 text-gray-200 bg-transparent rounded-lg border shadow-sm"
                 />
                 <p className="text-red-500 text-xs mt-1">{errors.username?.message}</p>
               </div>
@@ -105,7 +105,7 @@ const Signin = () => {
                   type="password"
                   placeholder="Enter password"
                   {...register("password")}
-                  className="w-full mt-2 px-3 py-2 text-gray-700 bg-transparent rounded-lg border shadow-sm"
+                  className="w-full mt-2 px-3 py-2 text-gray-200 bg-transparent rounded-lg border shadow-sm"
                 />
                 <p className="text-red-500 text-xs mt-1">{errors.password?.message}</p>
               </div>

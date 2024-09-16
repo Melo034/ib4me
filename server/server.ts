@@ -39,5 +39,5 @@ app.use('/api/blink', blinksRouter);
 
 // Start the server
 app.listen(PORT, () => {
-    console.log(`Server is running on http://localhost:${PORT}`);
+    console.log(`Server is running on https://ib4me.vercel.appt:${PORT}`);
 });

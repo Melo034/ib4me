@@ -66,7 +66,7 @@ Ensure you have the following installed on your machine:
     - Add your database connection string, API keys, and other necessary environment variables.
 4. Start the development server:
     ```bash
-    npm start
+    npm run dev
     ```
 5. Access the platform at `http://localhost:3000` in your browser.
 

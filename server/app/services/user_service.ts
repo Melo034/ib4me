@@ -1,6 +1,5 @@
 import * as repo from '../repositories/user_repository';
-import bcrypt from 'bcrypt';
-import jwt from 'jsonwebtoken';
+import bcrypt from 'bcryptjs';
 
 // Create a new user
 export async function createUser(data) {

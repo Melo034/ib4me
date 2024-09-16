@@ -45,8 +45,8 @@ Ensure you have the following installed on your machine:
 ### Installation Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/health-donation-platform.git
-    cd health-donation-platform
+    git clone https://github.com/yourusername/ib4me.git
+    cd ib4me
     ```
 2. Install the dependencies:
     ```bash

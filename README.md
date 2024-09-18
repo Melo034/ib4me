@@ -86,3 +86,8 @@ Ensure you have the following installed on your machine:
 - **Data Encryption:** All sensitive data, including user information and payment details, are encrypted using industry-standard protocols.
 - **Authentication and Authorization:** Implements JWT-based authentication and role-based access control to ensure secure access to resources.
 - **Regular Security Audits:** Conducts regular security audits and updates dependencies to mitigate vulnerabilities.
+
+## Live Demo
+
+You can also explore a live version of the project here: [IB4ME Live Demo](https://hib4me-client.onrender.com/)
+

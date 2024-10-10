@@ -6,15 +6,25 @@
 1. [Website Screenshots](#website-screenshots)
 2. [Features](#features)
 3. [Technology Overview](#technology-overview)
-4. [Installation Requirements](#installation-requirements)
-5. [Installation Steps](#installation-steps)
-6. [Usage](#usage)
-7. [Performance](#performance)
-8. [Security Considerations](#security-considerations)
+4. [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Installation Steps](#installation-steps)
+5. [Usage](#usage)
+6. [Performance](#performance)
+7. [Security Considerations](#security-considerations)
 
 ## Website Screenshots
 ![Screenshot 2024-09-16 172212](https://github.com/user-attachments/assets/b7a20d14-47dc-4ae1-846c-33e775fca0c9)
+
 ![Screenshot 2024-09-16 172338](https://github.com/user-attachments/assets/07c048fc-1923-4fce-949e-1897b1417d88)
+
+![Screenshot 2024-09-16 211206](https://github.com/user-attachments/assets/0c9c4b73-2331-4a97-9768-f725ef666465)
+
+![Screenshot 2024-09-16 211240](https://github.com/user-attachments/assets/e2eec06a-7c18-4271-9f54-4a8a1dd375c4)
+
+![Screenshot 2024-09-16 211412](https://github.com/user-attachments/assets/cd572147-8fa6-4b1f-913f-73fb99246a6a)
+
+![Screenshot 2024-09-16 211553](https://github.com/user-attachments/assets/aa3fc637-78b7-4802-9fab-8e07ecd9ffea)
 
 ## Features
 - **Local Payment Integration:** Supports donations via popular local payment methods such as Orange Money, Afrimoney, and Qmoney, making it easier for users in specific regions to contribute.
@@ -45,7 +55,7 @@ Ensure you have the following installed on your machine:
 ### Installation Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ib4me.git
+    git clone https://github.com/Melo034/ib4me.git
     cd ib4me
     ```
 2. Install the dependencies:
@@ -57,7 +67,7 @@ Ensure you have the following installed on your machine:
     - Add your database connection string, API keys, and other necessary environment variables.
 4. Start the development server:
     ```bash
-    npm start
+    npm run dev
     ```
 5. Access the platform at `http://localhost:3000` in your browser.
 
@@ -76,3 +86,8 @@ Ensure you have the following installed on your machine:
 - **Data Encryption:** All sensitive data, including user information and payment details, are encrypted using industry-standard protocols.
 - **Authentication and Authorization:** Implements JWT-based authentication and role-based access control to ensure secure access to resources.
 - **Regular Security Audits:** Conducts regular security audits and updates dependencies to mitigate vulnerabilities.
+
+## Live Demo
+
+You can also explore a live version of the project here: [IB4ME Live Demo](https://hib4me-client.onrender.com/)
+
